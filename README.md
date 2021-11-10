@@ -1,6 +1,6 @@
 # groupiron
 Group Iron Plans
-
+```
 Start rune mysteries
 Varrock museum
 Grab redberries
@@ -36,6 +36,10 @@ Tree gnome village (for spirit trees)
 Grand tree
 Priest in peril (unlock canifis course)
 Death plateau
+Nature Spirit
+Fairy Tale 1
+Giant Dwarf
+Forgettable Tale (These 4 for farming xp)
 Troll stronghold
 Troll romance
 Ichlarins little helper
@@ -95,3 +99,4 @@ House and portals
 Lost city
 Fairy tale 1
 Start fairy tale 2 
+```
