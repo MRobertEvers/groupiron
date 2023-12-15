@@ -1,6 +1,7 @@
 # groupiron
 Group Iron Plans
 ```
+REMINDER: DO NOT BOT
 Start rune mysteries
 Varrock museum
 Grab redberries
