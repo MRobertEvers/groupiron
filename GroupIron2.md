@@ -1,5 +1,5 @@
 Asquepin
-
+```
 Start as hot female character <3 (don't tell meg)
 Cooks assistant
 Sheep Shearer
@@ -13,6 +13,7 @@ Varrock Museum 9 slay + 9 hunt
 Clean Finds until ruby ammy
 Talk to Aubury Rune Mysteries 
 15 thieving at tea stall (for rusty sword for ardy easy. Pain and suffering)
+Get rat meat from sewers
 ** Mooch some coin (10k i think)
 buy staff of fire (warm clothing)
 do romeo and juliet
@@ -98,3 +99,18 @@ get 80 cooking
 barb fishing until 82 fishing
 fishing outfit from trawler
 Minnows master
+```
+# Mooch Summary So far
+```
+1. Redberry Pie
+2. 10k
+3. 141 Wyrm bones
+4. 6 clay 4 copper 2 iron (iron specifically)
+5. Bear meat
+6. Silk
+7. Orange and blue dye
+8. Dwellberries, chocolate dust/bar, bucket of milk, snape grass
+9. molten glass + bronze bar
+10. 4 coal
+11. Games necklace
+```
